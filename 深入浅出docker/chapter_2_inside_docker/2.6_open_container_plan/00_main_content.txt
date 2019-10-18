@@ -1,0 +1,3 @@
+OCI open container initiative
+是指对容器基础架构中的基础组件进行标准化的管理委员会
+镜像规范和运行时规范
